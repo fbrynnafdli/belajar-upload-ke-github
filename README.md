@@ -1,4 +1,3 @@
-# testing
+# teslagi
 
-
-jir lah men kece abis
+lagi belajar jir
